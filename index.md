@@ -4,15 +4,15 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is something about me.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://linkedin.com/in/dusicabozovic), [GitHub](https://github.com/dubosizocavic)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form first_name.last_name@helsinki.fi and first_name.last_name@gmail.com. 
 
 ## Courses I've Taken
 
@@ -22,6 +22,12 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[My first Github project](https://github.com/dubosizocavic/dubosizocavic.github.io)  
+Small description
+
+[Introduction to Methods in Digital Humanities project](https://github.com/dubosizocavic/dhproject)  
+Small description
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+Random stuff
