@@ -2,26 +2,32 @@
 layout: default
 ---
 
-## Introduction
+## Overall introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You need to include at least one list, image and table on the cmdline_course page
 
-## Find me on
+## Week 1
+Every section should include some formatted example code or commands like:
 
-[LinkedIn](https://linkedin.com/in/dusicabozovic)
 
-## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi and @gmail.com 
+%.freq: %.no_md.txt
+    bin/freqlist.sh $< $@
 
-## Courses I've Taken
+## Week 2
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+## Week 3
 
-## Projects
 
-## Misc. 
+## Week 4
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+
+## Week 5
+
+
+## Week 6
+
+
+## Week 7
+for the final week, you can talk about Jekyll and Gihub Pages

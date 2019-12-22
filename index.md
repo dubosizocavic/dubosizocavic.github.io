@@ -6,6 +6,10 @@ layout: default
 
 This is something about me.
 
+## My CV
+
+[My updated CV](https://www.overleaf.com/read/dszwfhnysckx) can be found on Overleaf.
+
 ## Find me on
 
 [LinkedIn](https://linkedin.com/in/dusicabozovic), [GitHub](https://github.com/dubosizocavic)
