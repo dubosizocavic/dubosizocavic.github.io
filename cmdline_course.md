@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Overall introduction
+## General info
 
 You need to include at least one list, image and table on the cmdline_course page
 
