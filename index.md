@@ -44,8 +44,8 @@ My email address is of the form firstname.lastname@helsinki.fi and firstname.las
 [My first Github project](https://github.com/dubosizocavic/dubosizocavic.github.io){:target="_blank"}  
 This webpage is my first project on GitHub. I am building it as a part of my exam for the Command line course. It will present some general data about me and my progress though the course.
 
-[Analyses of easy-to-read news in Finnish](https://github.com/dubosizocavic/dhproject){:target="_blank"}  
-I am also currently working on this project for my other course - Introduction to methods in digital humanities. I chose to work on the corpus of easy-to-read news in Finnish language. I will analyze some feature of that language, as well as look for some particular words in it. I am going to compare some recommendations for that language and its actual realization. Most of the technical work will based on my skills acquired in the Command line course.
+[Analysis of easy-to-read news in Finnish](https://github.com/dubosizocavic/dhproject){:target="_blank"}  
+I am currently working on this project for my other course - Introduction to methods in digital humanities. I chose to work on the corpus of easy-to-read news in Finnish language. I will analyze some features of that language (length of words, sentences etc.), as well as look for some particular words in it (e.g. "immigrants"). I am going to compare some recommendations for that language and its actual realization. Most of the technical work will based on my skills acquired in the Command line course.
 
 ## Misc. 
 
