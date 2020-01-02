@@ -4,7 +4,7 @@ layout: default
 
 ## General info
 
-You need to include at least one list, image and table on the cmdline_course page
+This is the content of my Command line course, as I remember it now.
 
 ## Week 1
 The first week of our course was mostly about understanding what command line is and **setting up** our comupter in order to be able to practice for the course. We also learnt some basic commands. We learnt:  
