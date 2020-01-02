@@ -103,7 +103,12 @@ th {
 }
 
 img {
-  max-width:100%;
+    max-width:100%;
+}
+
+section img {
+    box-shadow: 9px 9px 6px #AAA;
+    border: 1px #AAA solid;
 }
 
 header {

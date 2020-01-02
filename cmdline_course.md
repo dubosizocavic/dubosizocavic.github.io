@@ -42,4 +42,7 @@ In the 6th week I started feeling like I was doing some real programming. We lea
 
 ## Week 7
 In the 7th week we got acquainted with the concept of **version control**, which is very useful for experimenting with out own or somebody else´s code. We installed git and made a **GitHub account**. I had no idea that GitHub functions like that and I was impressed with the magic. On the other hand, it is a bit scary that someone can read everything I did there. However, no one is probably interested, except the teachers reading at the end of the course. The concept of **branches** is a bit abstract, but I understand how it works.  
-Finally, in the final assignment we learnt about **GitHub pages**. They are used for creating our own website based on the repository on GitHub. It is done with a help of **Jekyll**, which is a site generator. Jekyll helps us preview what we have built on our webpage. We don't need to push our changes to GitHub every time we make them, we can use Jekyll to preview what we have made and push the changes if we like the result.
+Finally, in the final assignment we learnt about **GitHub pages**. They are used for creating our own website based on the repository on GitHub. It is done with a help of **Jekyll**, which is a site generator. Jekyll helps us preview what we have built on our webpage. We don't need to push our changes to GitHub every time we make them, we can use Jekyll to preview what we have made and push the changes if we like the result.  
+My home page in the end looks like this:  
+
+![screenshot](https://lh3.googleusercontent.com/5fg5xO3izAXfMMlSkIVIKs_c3ZKcV_QaBPO_On_2TNV9IEluUxUyEpP8FdRSSaTX2ln_Sk2U-O7tL3M5MY1F=w1920-h867-rw)
