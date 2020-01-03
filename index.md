@@ -4,9 +4,9 @@ layout: default
 
 ## Introduction
 
-I am currently a student at the master's program <strong>Linguistic Diversity in the Digital Age</strong> at the University of Helsinki. My first master is in South-Slavic philology and general linguistics. My interests are: **language maintenance**, **educational technology**, <strong>multilingualism</strong>, **language policy**, <strong>language in education</strong>, <strong>L2 in public sphere</strong>, <strong>digital humanities</strong>.  
+I am currently a student at the master's program **Linguistic Diversity in the Digital Age** at the University of Helsinki. My first master is in South-Slavic philology and general linguistics. My interests are: **language maintenance**, **educational technology**, **multilingualism**, **language policy**, **language in education**, **L2 in public sphere**, **digital humanities**.  
 My previous work experience includes: University of Belgrade, University of Helsinki, Finnish adult education centers and Finnish primary schools.  
-I am one of the founders of _Heritage Language Teachers' association_ and a member of its board.
+I am one of the founders of _Heritage Language Teachers' association_ (_Oman äidinkielen opettajat ry_) and a member of its board.
 
 ## My CV
 

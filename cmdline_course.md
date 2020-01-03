@@ -17,11 +17,11 @@ The first week of our course was mostly about understanding what command line is
 Most of commands were very simple and consisted of only one string of characters: **less**, **rm**, **whoami** etc.
 
 How command **rm** works for single and multiple files:  
-```rm1
+```shell
 $ rm file1.txt
 ```
 This command will remove file1.txt.
-```rm2
+```shell
 $ rm file1.txt file2.txt
 ```
 This command will remove file1.txt and file2.txt.
@@ -29,7 +29,7 @@ This command will remove file1.txt and file2.txt.
 ## Week 2
 In the second week we learnt how to connect to a **remote server**. This is when I started feeling like a level pro. We also leant **running proccesses in the background**, **killing proccesses** using their PID. We learnt how to find the root folder of our computer and went thought its content.  
 Already in the second week I started solving problems by myself. My problem was that my username in CSC was different from my username on the computer, so I had to find a solution to that and it was that we must specify our username on the server:
-```ssh
+```shell
 $ ssh \<username\>@\<servername\>
 ```
 
@@ -78,11 +78,11 @@ This is part of the script which is suppose to compare two files and echo 0 id t
 ## Week 6
 In the 6th week I started feeling like I was doing some real programming. We learnt how to **install software**, how to solve a problem if software could not be installed. We also installed **python packages** and use **python interpreter**. I liked what **Makefile** does and it was fun to do the exercizes with it.
 Example:
-```
+```Makefile
 merge:
         cat data/*no_md.txt > data/all.no_md.txt
 ```
-This is part of my Makefile file, which is supposed to merge all files ending in no_md.txt.  
+This is part of my Makefile file, which is supposed to merge all files ending in "no_md.txt".  
 
 ## Week 7
 In the 7th week we got acquainted with the concept of **version control**, which is very useful for experimenting with out own or somebody else´s code. We installed git and made a **GitHub account**. I had no idea that GitHub functions like that and I was impressed with the magic. On the other hand, it is a bit scary that someone can read everything I did there. However, no one is probably interested, except the teachers reading at the end of the course. The concept of **branches** is a bit abstract, but I understand how it works.
@@ -95,4 +95,4 @@ The first command will create the new branch "dusica" and the second command wil
 Finally, in the final assignment we learnt about **GitHub pages**. They are used for creating our own website based on the repository on GitHub. It is done with a help of **Jekyll**, which is a site generator. Jekyll helps us preview what we have built on our webpage. We don't need to push our changes to GitHub every time we make them, we can use Jekyll to preview what we have made and push the changes if we like the result.  
 My home page in the end looks like this:  
 
-![screenshot](https://lh3.googleusercontent.com/5fg5xO3izAXfMMlSkIVIKs_c3ZKcV_QaBPO_On_2TNV9IEluUxUyEpP8FdRSSaTX2ln_Sk2U-O7tL3M5MY1F=w1920-h867-rw)
+![screenshot](webpage_pic.png.PNG)
