@@ -95,4 +95,4 @@ The first command will create the new branch "dusica" and the second command wil
 Finally, in the final assignment we learnt about **GitHub pages**. They are used for creating our own website based on the repository on GitHub. It is done with a help of **Jekyll**, which is a site generator. Jekyll helps us preview what we have built on our webpage. We don't need to push our changes to GitHub every time we make them, we can use Jekyll to preview what we have made and push the changes if we like the result.  
 My home page in the end looks like this:  
 
-![screenshot](webpage_pic.png.PNG)
+![screenshot](assets/img/webpage_pic.png.PNG)
