@@ -44,7 +44,7 @@ In the third week we learnt how to use many useful commands to **process a text*
 | egrep   | command which searches for patterns of characters         | yes    |
 
 Example:
-```
+```shall
 $ sort list_of_words.txt
 ```
 
@@ -55,7 +55,7 @@ This command will return the list of words in the alphabetical order.
 The forth week was about writing complex **command pipelines** and getting an output file after performing all of them together. The most important command of that week was **sed**. It works similar to egrep in sense that it is looking for some patterns, but it also has an option of substituting those patterns with some other patterns.  
 This week was time-consuming for me, so I didn't manage to complete the quiz because I ran out of time even though I stated working on it three days before the deadline. This is when I felt that the workload on the course goes beyond 5 ECTS and that there was too much new information in the tasks.  
 Example:
-```
+```shell
 $ cat katinka_rabe.utf8.txt | egrep "ssa\b"
 ```
 This command will open the text katinka_rabe.utf8.txt and select all the strings of characters ending in ssa.
@@ -64,7 +64,7 @@ This command will open the text katinka_rabe.utf8.txt and select all the strings
 ## Week 5
 This week was the most demanding for me. It was about writing **scripts**. I felt that I understood all of the instructions, but when I procceeded to the quiz, I could not solve some problems and I thought that the requirements are too high for what we are taught in the instructions. I understood how to turn a command pipeline into a script, but the tasks given were a completely new level. I also learnt the basics of the **if statement**. I learnt about **environment variables** and how to change/use them. I also got to know how to **personalize my working environment**.
 Example:
-```
+```shell
 diff $1 $2 > /dev/null
 if [ $? -eq 0 ]
 then
@@ -78,7 +78,7 @@ This is part of the script which is suppose to compare two files and echo 0 id t
 ## Week 6
 In the 6th week I started feeling like I was doing some real programming. We learnt how to **install software**, how to solve a problem if software could not be installed. We also installed **python packages** and use **python interpreter**. I liked what **Makefile** does and it was fun to do the exercizes with it.
 Example:
-```Makefile
+```shell
 merge:
         cat data/*no_md.txt > data/all.no_md.txt
 ```
@@ -86,7 +86,7 @@ This is part of my Makefile file, which is supposed to merge all files ending in
 
 ## Week 7
 In the 7th week we got acquainted with the concept of **version control**, which is very useful for experimenting with out own or somebody else´s code. We installed git and made a **GitHub account**. I had no idea that GitHub functions like that and I was impressed with the magic. On the other hand, it is a bit scary that someone can read everything I did there. However, no one is probably interested, except the teachers reading at the end of the course. The concept of **branches** is a bit abstract, but I understand how it works.
-```
+```shell
 $ git branch dusica
 $ git checkout dusica
 ```
